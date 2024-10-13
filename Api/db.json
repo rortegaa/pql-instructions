@@ -4,6 +4,11 @@
       "id": 1,
       "name": "Gryffindor",
       "slogan": "Where dwell the brave at heart"
+    },
+    {
+      "id": 2,
+      "name": "Gryffindor 2",
+      "slogan": "test"
     }
   ],
   "players": [
@@ -33,14 +38,14 @@
       "name": "Draco Malfoy",
       "age": 11,
       "position": "Chaser",
-      "team_id": null
+      "team_id": 2
     },
     {
       "id": 5,
       "name": "Cedric Diggory",
       "age": 17,
       "position": "Seeker",
-      "team_id": null
+      "team_id": 2
     },
     {
       "id": 6,
